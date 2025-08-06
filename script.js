@@ -1,9 +1,9 @@
 var arr = [
-    { songname: "Tees Maar Khan", time: "3:45", url: "./song/tmk.mp3", img: "./img/tmk.jpg" },
-    { songname: "Dil Main Baji Guitar", time: "4:08", url: "./song/dmbg.mp3", img: "./img/dmbg.jpeg" },
-    { songname: "Chaleya", time: "3:07", url: "./song/chaleya.mp3", img: "./img/c.jpg" },
-    { songname: "What Jhumka ?", time: "2:32", url: "./song/wj.mp3", img: "./img/wj.png" },
-    { songname: "Bawaal", time: "3:14", url: "./song/bawaal.mp3", img: "./img/b.jpeg" }
+    { songname: "Tees Maar Khan", time: "3:45", url: "./song/tmk.mp3", img: "./img/tmk.webp" },
+    { songname: "Dil Main Baji Guitar", time: "4:08", url: "./song/dmbg.mp3", img: "./img/dmbg.webp" },
+    { songname: "Chaleya", time: "3:07", url: "./song/chaleya.mp3", img: "./img/c.webp" },
+    { songname: "What Jhumka ?", time: "2:32", url: "./song/wj.mp3", img: "./img/wj.webp" },
+    { songname: "Bawaal", time: "3:14", url: "./song/bawaal.mp3", img: "./img/b.webp" }
 ]
 
 var allsongs = document.querySelector("#all-songs")
